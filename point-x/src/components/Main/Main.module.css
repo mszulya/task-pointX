@@ -1,0 +1,35 @@
+.mainWrap {
+    background-color: #f7fafc;
+}
+
+.welcomeBlock{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 45px;
+}
+
+.welcome {
+    font-family: Cheyenne Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #1E266D;
+}
+
+.report {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.Link {
+    background-color: #336BEC;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 11px 26px;
+}
