@@ -4,7 +4,7 @@ import styles from './Graphic.module.css';
 const Graphic = () => {
     return (
     <div className={styles.graphicWrap}>
-        Participiants
+        Participiants/
     </div>
     )
 }
