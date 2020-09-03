@@ -1,0 +1,26 @@
+.taskWrap {
+    background-color: #fff;
+    width: 1210px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: space-between;
+    padding: 44px 50px;
+}
+
+.taskInfo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    margin-left: 60px;
+}
+
+.countParticipiants {
+    background-color: #FD4DAA;
+    color: #fff;
+    border-radius: 20px;
+    padding: 4px 13px;
+    margin-left: 32px;
+}

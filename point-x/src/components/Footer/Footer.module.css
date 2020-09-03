@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    align-items: center;
+}
+
+.company {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A2ACC0;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.socialMedias {
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

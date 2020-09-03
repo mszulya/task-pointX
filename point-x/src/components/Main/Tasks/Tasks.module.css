@@ -1,0 +1,44 @@
+.tasksWrap {
+    margin-top: 70px;
+    margin-bottom: 118px;
+}
+
+.title {
+    font-family: Cheyenne Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 125%;
+    color: #1E266D;
+}
+
+.taskTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.statuses {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.activeStatus {
+    background-color: #0056D3;
+    border-radius: 40px;
+    color: #fff;
+    list-style-type: none;
+    padding: 6px 30px;
+}
+
+.status {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A2ACC0;
+    list-style-type: none;
+    margin-left: 31px;
+}

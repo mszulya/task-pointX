@@ -1,0 +1,81 @@
+.ReportsWrap {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 56px;
+}
+
+.campaigns {
+    width: 422px;
+    height: 245px;
+    background: #0056D3;
+    border-radius: 10px;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 0 21px;
+}
+
+.growth {
+    width: 422px;
+    height: 245px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(50, 50, 71, 0.08), inset 0 -4px 0 #386CE9;
+    border-radius: 10px;
+}
+
+.growthLogo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 84px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #0E47C2;
+}
+
+.expenses {
+    width: 422px;
+    height: 245px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(50, 50, 71, 0.08), inset 0 -4px 0 #386CE9;
+    border-radius: 10px;
+}
+
+.terms {
+    display: flex;
+    justify-content: space-between;
+}
+
+.term {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A2ACC0;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.termActive {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #0056D3;
+    list-style-type: none;
+}
+
+.progressRing {
+    position: relative;
+    top: -210px;
+    left: 150px;
+    z-index: 10;
+}
