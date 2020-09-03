@@ -14,7 +14,7 @@ function App() {
       <div className={styles.wrap}>
         <Header userName={userName}/>
         <div>
-          <Route path='/' exact render={  () => <Main userName={userName}/> } />
+          <Route path='/task-pointX' exact render={  () => <Main userName={userName}/> } />
           <Route path='/newtask' render={  () => <CreateNewTask /> } />
         </div>
         <Footer />
